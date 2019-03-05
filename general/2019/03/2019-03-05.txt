@@ -1,0 +1,392 @@
+Julio (@julito):
+Estaba buscando a ver si existe algún Slack de Ruby Argentina y me crucé con este pedacito de historia <https://www.meetup.com/Meetup-js/messages/76874597/?messageId=76874597>
+Marcos Chicote (@marcoschicote):
+está Rubysur <@U0436TVR2>
+Julio (@julito):
+Justo acabo de unirme :slightly_smiling_face:
+Marcos Chicote (@marcoschicote):
+:+1:
+Gonza Rascón (@gonzarascon):
+Gente, alguno conoce alguna plataforma de elearning, especializada en programacion,  open-source?
+Santiago Ruffino (@santi_0898):
+No entendi que buscas. Alguna plataforma para aprender a programar que sea open source?
+Gonza Rascón (@gonzarascon):
+Exacto, necesito fuentes para una investigacion pero el googleo no basta jajaja
+Gonza Rascón (@gonzarascon):
+Si es que hay, la verdad desconozco
+Santiago Ruffino (@santi_0898):
+Mmm, dudo que haya Open Source. Osea, mi logica dice "Una plataforma de aprendizaje tipo Platzi o Udemy, que tenga los cursos, y que la puedas levantar en tu propio server?" complicado
+Santiago Ruffino (@santi_0898):
+Salvo que sea algo tipo Moodle, pero no es tan como lo decis vos
+Gonza Rascón (@gonzarascon):
+Claro, Moodle es lo primero que se me vino a la cabeza pero nada que ver
+Julian (@jantonielli01):
+creo q <https://exercism.io/> es oss
+Gonza Rascón (@gonzarascon):
+porque el caso es que busco del estilo Platzi o Udemy jajaja
+Julian (@jantonielli01):
+pero es de ejercicios mas q videos y esas cosas
+Gonza Rascón (@gonzarascon):
+Sirve! Le echo un ojo
+Gonza Gluzman (@gonza):
+Gran parte del código de Mumuki es open source también
+Gonza Espeche (@espeche.g):
+edx y coursera?
+Gonza Rascón (@gonzarascon):
+Yes! los acabo de encontrar en github a todos! Gracias :smile:
+Julio (@julito):
+5 minutos <https://domains.google/tld/dev/>
+Gonzalo González Mora (@gonzalogm):
+essssplota la web
+Gonza Espeche (@espeche.g):
+más trafico que la general paz
+Julio (@julito):
+En namecheap parece que anda
+Julian (@jantonielli01):
+Anda re bien
+Julian (@jantonielli01):
+<https://puu.sh/CT3FX/9cb9d422cc.png>
+Gonzalo González Mora (@gonzalogm):
+jaja si, pero lo pude comrpar igual, 15 con monedas
+Jorge Cano (@jorgeucano):
+compradito :slightly_smiling_face:
+Julio (@julito):
+Se me re mambeó namecheap y me lockeó de la cuenta :disappointed:
+Jorge Cano (@jorgeucano):
+uhhh
+Jorge Cano (@jorgeucano):
+yo trate de comprar por google y no andaba el cart
+Jorge Cano (@jorgeucano):
+desde godaddy no me dejaba pagar por paypal
+Jorge Cano (@jorgeucano):
+y namecheap me hizo la cuenta y me dejo pagar por paypal como si nada
+Gonza Gluzman (@gonza):
+Uh, está disponible el dominio que quiero
+Gonza Gluzman (@gonza):
+La tentación es grande
+Gonza Gluzman (@gonza):
+Pero :rat:
+Gonzalo González Mora (@gonzalogm):
+jajaj
+Juan Scolari (@juanscolari):
+ya me ganaron el juan.dev
+Juan Scolari (@juanscolari):
+igual no lo iba a pagar, salia como 30 lucas por ser “premium” (?
+Jorge Cano (@jorgeucano):
+jajajajja
+Jorge Cano (@jorgeucano):
+30k
+Jorge Cano (@jorgeucano):
+que carajos
+Gonzalo González Mora (@gonzalogm):
+Yo conseguí gonzalo.dev, se ve que somos pocos jajaj
+Juan Scolari (@juanscolari):
+naaa, posta?
+Juan Scolari (@juanscolari):
+que bien
+Gonzalo González Mora (@gonzalogm):
+see y gonzalogm.dev que es mi usuario en casi todos lados jaja dsp no los uso, no sé para qué los compro, lpm
+Nico (@nicokorn96):
+porque los de namecheap son tan baratos?
+Nico (@nicokorn96):
+por alguna cuestion de dns?
+Jorge Cano (@jorgeucano):
+debe ser que dps venden tus datos por ahi
+Nico (@nicokorn96):
+PERO ES TAN BARATO
+Nico (@nicokorn96):
+*tome mis datos *
+Carlos Manotas (@carlosmanotas):
+no que era gratis el `.dev` o lo soñe
+Gonzalo González Mora (@gonzalogm):
+_no lo soñeeee_ eeeieeee
+Nico (@nicokorn96):
+alguno sabe que es eso de PremiumDNS de namecheap?
+Gonzalo González Mora (@gonzalogm):
+No recuerdo haber visto que fueran gratis jaj
+Juan Scolari (@juanscolari):
+en el panfleto decia que el costo era gratis
+Hernan Rajchert (@sherman):
+que onda google domains?
+Gonzalo González Mora (@gonzalogm):
+Tenés que tener un billing address en alguno de los países qde la lista mepa
+Juan Scolari (@juanscolari):
+podes comprar a traves de otro
+Gonzalo González Mora (@gonzalogm):
+Sep, Namecheap funca bien
+Nico (@nicokorn96):
+vale la pena comprar el PremiumDNS a alguno que haya ya comprado en namecheap?
+Nico (@nicokorn96):
+tipo son 5 usd mas pero nose si es un chamullo marketinero o otra cosa
+Gonzalo González Mora (@gonzalogm):
+Creo que lo podés comprar dsp si ves que te hace falta
+Gonzalo González Mora (@gonzalogm):
+yo dejaría el default
+Damian C (@damian.crespi):
+Alguien me bailo re sabroso
+Gonzalo González Mora (@gonzalogm):
+Uhh la peor
+Nico (@nicokorn96):
+ahora estamos comrando todos dominios.dev?
+Damian C (@damian.crespi):
+Tengo ganas de hostear una github page con mi cv 
+a0viedo (@a0viedo):
+yo los que reservé con godaddy me los asignó todos
+Nico (@nicokorn96):
+aws no acepta .dev ?
+Nico (@nicokorn96):
+route53 *
+Hernan Rajchert (@sherman):
+compré con goddady pero no me actualiza los DNS :confused:
+Hernan Rajchert (@sherman):
+y github pages tampoco me sube la gilada (puede porque ya le puse el CNAME)
+Nico (@nicokorn96):
+yo compre namecheap pensando que se podia linkear con aws
+Nico (@nicokorn96):
+y no
+Nico (@nicokorn96):
+lpm
+Germán Burgardt (@germanandresburgardt):
+goddady me suele demorar en actualizar dns
+Hernan Rajchert (@sherman):
+pero cuanto loco… laaa ansiedaaaa
+Nico (@nicokorn96):
+ya queres estar online?
+Nico (@nicokorn96):
+que host estas usando
+Hernan Rajchert (@sherman):
+github pages
+Santiago Ruffino (@santi_0898):
+"santi.dev" no esta disponible. Pero podria hacerme `santi.tips`
+Gonza Gluzman (@gonza):
+`san.tips`
+Santiago Ruffino (@santi_0898):
+Esta en uso :cry:
+Martín Valdés de León (@mvaldesdeleon):
+mval.dev in the bag
+Martín Valdés de León (@mvaldesdeleon):
+gracias por no cagarmelo :smile:
+Nico (@nicokorn96):
+nicomse.dev
+Nico (@nicokorn96):
+:raised_hands::skin-tone-2:
+Hernan Rajchert (@sherman):
+sherman.dev tmb :sunglasses:… pero goddady y la concha que te pario donde estan mis DNS :agite:
+Nico (@nicokorn96):
+Usa digital océan sino 
+Hernan Rajchert (@sherman):
+la página web ya te está esperando :kissing: <https://hrajchert.github.io/shermandev/>
+Hernan Rajchert (@sherman):
+la definición de MVP (?
+Nico (@nicokorn96):
+<https://www.whatsmydns.net>
+Nico (@nicokorn96):
+Probaste esra página?
+Nico (@nicokorn96):
+<@U0DHEL1PC> 
+Hernan Rajchert (@sherman):
+<https://www.whatsmydns.net/#CNAME/sherman.dev> todas cruces rojas
+Nico (@nicokorn96):
+Creo  qye el señor godaddy te está garcando
+Hernan Rajchert (@sherman):
+probe una que me dijo que esta registrada bajo goddady, asique…
+Santiago Ruffino (@santi_0898):
+Go Daddy tarda bastante en hacer la parte de los DNS
+Hernan Rajchert (@sherman):
+se toman su tiempo… 48hs, tranqui
+Julian (@jantonielli01):
+Now domains esta piola 
+Julian (@jantonielli01):
+Aunque es caro
+Julian (@jantonielli01):
+Pero así es zeit :evil: 
+Gonza Gluzman (@gonza):
+Algunx desarrolla en windows? Tengo una amiga con una compu con Windows y quiere arrancar a desarrollar. Quería saber si usan algo para usar git desde consola (dentro de lo posible usar los comandos de linux e idealmente desde la consola del VSCode).
+Jorge Cano (@jorgeucano):
+la consola del git
+Gonza Gluzman (@gonza):
+Oka, sería una aparte, no?
+Gonza Gluzman (@gonza):
+Cómo se instala?
+Jorge Cano (@jorgeucano):
+cuando instalas git
+Jorge Cano (@jorgeucano):
+se te instala una terminal
+Gonza Gluzman (@gonza):
+Joya
+Jorge Cano (@jorgeucano):
+<https://gitforwindows.org/>
+Gonza Gluzman (@gonza):
+No se puede embeber en el VSCode, no?
+Jorge Cano (@jorgeucano):
+ni idea, igual te hablo de hace años xD
+Gonza Gluzman (@gonza):
+ajajajja
+Jorge Cano (@jorgeucano):
+creo que ahora windows ya viene con terminal que soporta comando linux
+Gonza Gluzman (@gonza):
+Con Windows 98
+Gabriel Dominguez (@gabidominguez):
+Cmder creo que sirve para comandos de Linux también
+Gonzalo González Mora (@gonzalogm):
+<https://www.cygwin.com/>
+Juan Scolari (@juanscolari):
+powershell soporta los comandos de linux
+Jorge Cano (@jorgeucano):
+ahi esta
+Jorge Cano (@jorgeucano):
+que use powershell directo
+Juan Scolari (@juanscolari):
+capaz hay alguno mas moderno, pero conozco ese nomas :stuck_out_tongue:
+Jorge Cano (@jorgeucano):
+<https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/>
+Santiago Ruffino (@santi_0898):
+Esta el Powershell. Y depende de la version de Win 10, podes activar una consola como en Linux, pero no es lo mismo
+Santiago Ruffino (@santi_0898):
+Igual, ponele. Si va a usar VSCode, ya trae extensiones que trabajan con Git
+Gonza Gluzman (@gonza):
+Oka, oka, voy a investigar un poco más
+Gonza Gluzman (@gonza):
+Jajajaj
+Micael Robles (@micaelrobles):
+donde compraron los dominios .dev?
+Martín Valdés de León (@mvaldesdeleon):
+yo en godaddy (i know)
+Micael Robles (@micaelrobles):
+conoces una mejor opcion?
+Julio (@julito):
+namecheap los está vendiendo también
+Nico (@nicokorn96):
+yo en namecheap
+Jorge Cano (@jorgeucano):
+namecheap compre porque acepta paypal y funcionaba
+Jorge Cano (@jorgeucano):
+google domains estaba matado
+Nico (@nicokorn96):
+todavia no me acrtualizo los dns igual :disappointed:
+Juan Scolari (@juanscolari):
+estan colapsados seguro
+Juan Scolari (@juanscolari):
+dale un dia jaj
+Jorge Cano (@jorgeucano):
+mañana estan gratis me idijieron xD
+isna (@isna):
+use google domains y todavía figura como pendiente
+Jorge Cano (@jorgeucano):
+va uno me twitteo eso
+Julian (@jantonielli01):
+La clásica 
+Jorge Cano (@jorgeucano):
+<https://twitter.com/beor22/status/1101162955511607297>
+Julian (@jantonielli01):
+Mañana están gratis y te roban el dominio 
+Sergio Daniel Xalambrí (@sergiodxa):
+cuando estén gratis se agotan todos
+Sergio Daniel Xalambrí (@sergiodxa):
+igual que con los .<http://com.ar|com.ar>
+Sergio Daniel Xalambrí (@sergiodxa):
+compras todos los .dev posibles y los ponés a revender, no los renovas si no los vendes
+Sergio Daniel Xalambrí (@sergiodxa):
+algo de plata sacas
+Gonza Gluzman (@gonza):
+No tenés que pagar por adelantado la renovación?
+Jorge Cano (@jorgeucano):
+hero.dev esta reservado :open_mouth:
+Jorge Cano (@jorgeucano):
+my.dev tambien (?)
+Sergio Daniel Xalambrí (@sergiodxa):
+myhero.dev?
+Santiago Ruffino (@santi_0898):
+Yo no tengo ganas de pagar $532 por un dominio que no voy a usar. Jajaja
+Jorge Cano (@jorgeucano):
+youaremy.dev
+Juan Scolari (@juanscolari):
+uno que me gustaba era thegood.dev
+Jorge Cano (@jorgeucano):
+ved.dev?
+Juan Scolari (@juanscolari):
+devdev.dev
+Jorge Cano (@jorgeucano):
+fullstack.dev
+Jorge Cano (@jorgeucano):
+?
+Santiago Ruffino (@santi_0898):
+helloworld.dev esta ocupado
+Sergio Daniel Xalambrí (@sergiodxa):
+theevil.dev está disponible
+Mateo Silguero (@mfsilguero):
+rockstar.dev
+Juan Scolari (@juanscolari):
+hay gente que compra por comprar (creo que somos la mayoria)
+Julian (@jantonielli01):
+Están disponibles algunos de lenguajes 
+Sergio Daniel Xalambrí (@sergiodxa):
+ninja.dev
+Gonza Gluzman (@gonza):
+ninja.dev
+Gonza Gluzman (@gonza):
+Jajajaja
+Julian (@jantonielli01):
+Tipo clojure.dev
+Gonza Gluzman (@gonza):
+webmaster.dev
+Julian (@jantonielli01):
+Pero están &gt; 800$ 
+Sergio Daniel Xalambrí (@sergiodxa):
+haskell.dev?
+Julian (@jantonielli01):
+Nope, ese no 
+Santiago Ruffino (@santi_0898):
+`thebest.dev` esta a $35.339,99
+Santiago Ruffino (@santi_0898):
+ARS
+Juan Scolari (@juanscolari):
+ya compraron baires.dev
+Julian (@jantonielli01):
+Vi idris.dev por 11000 usd 
+Julian (@jantonielli01):
+No se si se habrá vendido ya 
+Jorge Cano (@jorgeucano):
+freelance.dev tambien esta tomado
+Jorge Cano (@jorgeucano):
+`heyimam.dev` esta pero no queda copado
+Gonzalo González Mora (@gonzalogm):
+`theworst.dev`
+Jorge Cano (@jorgeucano):
+soy.dev esta 98 dolares XD
+Gonza Gluzman (@gonza):
+`eloper.dev`
+Jorge Cano (@jorgeucano):
+el.dev esta 720 dolares
+Sergio Daniel Xalambrí (@sergiodxa):
+game.dev?
+Jorge Cano (@jorgeucano):
+linda forma de no trabajar hoy
+Jorge Cano (@jorgeucano):
+que hiciste hoy… estuve mirando dominios .dev
+Gonzalo González Mora (@gonzalogm):
+`yo.dev`
+Santiago Ruffino (@santi_0898):
+Si compras `stack.dev`, podes hacer subdominios que sean "full.stack.dev"
+Gonzalo González Mora (@gonzalogm):
+empty.stack.dev
+Luis Alvarez (@luistensai):
+:developers:
+Jorge Cano (@jorgeucano):
+not.dev esta xD
+Luis Alvarez (@luistensai):
+/gif developers developers developers
+Gonzalo González Mora (@gonzalogm):
+360, pagaraprata
+Santiago Ruffino (@santi_0898):
+Mientras el codigo compila...
+Juan Scolari (@juanscolari):
+pero a cuanto? xD
+Rodrigo Ali (@rodrigojali):
+720 lechugas
+Jorge Cano (@jorgeucano):
+el problema son la lista de tareas que tengo pendiente
+Juan Scolari (@juanscolari):
+es como no estar jaj
+Juan Scolari (@juanscolari):
+theonly.dev este esta barato
