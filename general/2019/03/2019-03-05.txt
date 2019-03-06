@@ -54,395 +54,59 @@ Les dejo curso para los que recien empiezan... arrancan el lunes es virtual: <ht
 que precio tiene?
 20:09:59 - Brian Hume (@brianh20):
 ```El único requerimiento para realizar este curso es contar con manejo básico de PC y sistema operativo Windows o Linux````
-10:37:04 - Julio (@julito):
-Estaba buscando a ver si existe algún Slack de Ruby Argentina y me crucé con este pedacito de historia <https://www.meetup.com/Meetup-js/messages/76874597/?messageId=76874597>
-10:47:04 - Marcos Chicote (@marcoschicote):
-está Rubysur <@U0436TVR2>
-10:47:19 - Julio (@julito):
-Justo acabo de unirme :slightly_smiling_face:
-10:47:46 - Marcos Chicote (@marcoschicote):
-:+1:
-11:13:54 - Gonza Rascón (@gonzarascon):
-Gente, alguno conoce alguna plataforma de elearning, especializada en programacion,  open-source?
-11:15:52 - Santiago Ruffino (@santi_0898):
-No entendi que buscas. Alguna plataforma para aprender a programar que sea open source?
-11:16:44 - Gonza Rascón (@gonzarascon):
-Exacto, necesito fuentes para una investigacion pero el googleo no basta jajaja
-11:16:55 - Gonza Rascón (@gonzarascon):
-Si es que hay, la verdad desconozco
-11:17:47 - Santiago Ruffino (@santi_0898):
-Mmm, dudo que haya Open Source. Osea, mi logica dice "Una plataforma de aprendizaje tipo Platzi o Udemy, que tenga los cursos, y que la puedas levantar en tu propio server?" complicado
-11:17:53 - Santiago Ruffino (@santi_0898):
-Salvo que sea algo tipo Moodle, pero no es tan como lo decis vos
-11:18:19 - Gonza Rascón (@gonzarascon):
-Claro, Moodle es lo primero que se me vino a la cabeza pero nada que ver
-11:18:22 - Julian (@jantonielli01):
-creo q <https://exercism.io/> es oss
-11:18:36 - Gonza Rascón (@gonzarascon):
-porque el caso es que busco del estilo Platzi o Udemy jajaja
-11:18:39 - Julian (@jantonielli01):
-pero es de ejercicios mas q videos y esas cosas
-11:19:11 - Gonza Rascón (@gonzarascon):
-Sirve! Le echo un ojo
-11:22:57 - Gonza Gluzman (@gonza):
-Gran parte del código de Mumuki es open source también
-11:24:09 - Gonza Espeche (@espeche.g):
-edx y coursera?
-11:25:43 - Gonza Rascón (@gonzarascon):
-Yes! los acabo de encontrar en github a todos! Gracias :smile:
-12:55:38 - Julio (@julito):
-5 minutos <https://domains.google/tld/dev/>
-13:00:51 - Gonzalo González Mora (@gonzalogm):
-essssplota la web
-13:01:51 - Gonza Espeche (@espeche.g):
-más trafico que la general paz
-13:03:42 - Julio (@julito):
-En namecheap parece que anda
-13:06:43 - Julian (@jantonielli01):
-Anda re bien
-13:06:43 - Julian (@jantonielli01):
-<https://puu.sh/CT3FX/9cb9d422cc.png>
-13:06:54 - Gonzalo González Mora (@gonzalogm):
-jaja si, pero lo pude comrpar igual, 15 con monedas
-13:10:13 - Jorge Cano (@jorgeucano):
-compradito :slightly_smiling_face:
-13:12:21 - Julio (@julito):
-Se me re mambeó namecheap y me lockeó de la cuenta :disappointed:
-13:14:04 - Jorge Cano (@jorgeucano):
-uhhh
-13:14:10 - Jorge Cano (@jorgeucano):
-yo trate de comprar por google y no andaba el cart
-13:14:16 - Jorge Cano (@jorgeucano):
-desde godaddy no me dejaba pagar por paypal
-13:14:28 - Jorge Cano (@jorgeucano):
-y namecheap me hizo la cuenta y me dejo pagar por paypal como si nada
-13:15:15 - Gonza Gluzman (@gonza):
-Uh, está disponible el dominio que quiero
-13:15:23 - Gonza Gluzman (@gonza):
-La tentación es grande
-13:15:28 - Gonza Gluzman (@gonza):
-Pero :rat:
-13:15:48 - Gonzalo González Mora (@gonzalogm):
-jajaj
-13:20:46 - Juan Scolari (@juanscolari):
-ya me ganaron el juan.dev
-13:21:01 - Juan Scolari (@juanscolari):
-igual no lo iba a pagar, salia como 30 lucas por ser “premium” (?
-13:21:27 - Jorge Cano (@jorgeucano):
-jajajajja
-13:21:36 - Jorge Cano (@jorgeucano):
-30k
-13:21:38 - Jorge Cano (@jorgeucano):
-que carajos
-13:22:58 - Gonzalo González Mora (@gonzalogm):
-Yo conseguí gonzalo.dev, se ve que somos pocos jajaj
-13:23:06 - Juan Scolari (@juanscolari):
-naaa, posta?
-13:23:08 - Juan Scolari (@juanscolari):
-que bien
-13:24:09 - Gonzalo González Mora (@gonzalogm):
-see y gonzalogm.dev que es mi usuario en casi todos lados jaja dsp no los uso, no sé para qué los compro, lpm
-13:28:55 - Nico (@nicokorn96):
-porque los de namecheap son tan baratos?
-13:29:03 - Nico (@nicokorn96):
-por alguna cuestion de dns?
-13:29:13 - Jorge Cano (@jorgeucano):
-debe ser que dps venden tus datos por ahi
-13:29:35 - Nico (@nicokorn96):
-PERO ES TAN BARATO
-13:29:53 - Nico (@nicokorn96):
-*tome mis datos *
-13:30:07 - Carlos Manotas (@carlosmanotas):
-no que era gratis el `.dev` o lo soñe
-13:30:23 - Gonzalo González Mora (@gonzalogm):
-_no lo soñeeee_ eeeieeee
-13:30:31 - Nico (@nicokorn96):
-alguno sabe que es eso de PremiumDNS de namecheap?
-13:30:32 - Gonzalo González Mora (@gonzalogm):
-No recuerdo haber visto que fueran gratis jaj
-13:31:03 - Juan Scolari (@juanscolari):
-en el panfleto decia que el costo era gratis
-13:35:19 - Hernan Rajchert (@sherman):
-que onda google domains?
-13:35:35 - Gonzalo González Mora (@gonzalogm):
-Tenés que tener un billing address en alguno de los países qde la lista mepa
-13:36:05 - Juan Scolari (@juanscolari):
-podes comprar a traves de otro
-13:36:29 - Gonzalo González Mora (@gonzalogm):
-Sep, Namecheap funca bien
-13:41:32 - Nico (@nicokorn96):
-vale la pena comprar el PremiumDNS a alguno que haya ya comprado en namecheap?
-13:41:53 - Nico (@nicokorn96):
-tipo son 5 usd mas pero nose si es un chamullo marketinero o otra cosa
-13:42:54 - Gonzalo González Mora (@gonzalogm):
-Creo que lo podés comprar dsp si ves que te hace falta
-13:43:04 - Gonzalo González Mora (@gonzalogm):
-yo dejaría el default
-13:52:00 - Damian C (@damian.crespi):
-Alguien me bailo re sabroso
-13:52:28 - Gonzalo González Mora (@gonzalogm):
-Uhh la peor
-13:53:05 - Nico (@nicokorn96):
-ahora estamos comrando todos dominios.dev?
-13:54:18 - Damian C (@damian.crespi):
-Tengo ganas de hostear una github page con mi cv 
-14:01:34 - a0viedo (@a0viedo):
-yo los que reservé con godaddy me los asignó todos
-14:10:29 - Nico (@nicokorn96):
-aws no acepta .dev ?
-14:10:35 - Nico (@nicokorn96):
-route53 *
-14:16:50 - Hernan Rajchert (@sherman):
-compré con goddady pero no me actualiza los DNS :confused:
-14:17:16 - Hernan Rajchert (@sherman):
-y github pages tampoco me sube la gilada (puede porque ya le puse el CNAME)
-14:17:39 - Nico (@nicokorn96):
-yo compre namecheap pensando que se podia linkear con aws
-14:17:40 - Nico (@nicokorn96):
-y no
-14:17:41 - Nico (@nicokorn96):
-lpm
-14:18:18 - Germán Burgardt (@germanandresburgardt):
-goddady me suele demorar en actualizar dns
-14:20:55 - Hernan Rajchert (@sherman):
-pero cuanto loco… laaa ansiedaaaa
-14:21:10 - Nico (@nicokorn96):
-ya queres estar online?
-14:21:18 - Nico (@nicokorn96):
-que host estas usando
-14:21:36 - Hernan Rajchert (@sherman):
-github pages
-14:42:14 - Santiago Ruffino (@santi_0898):
-"santi.dev" no esta disponible. Pero podria hacerme `santi.tips`
-14:42:37 - Gonza Gluzman (@gonza):
-`san.tips`
-14:43:37 - Santiago Ruffino (@santi_0898):
-Esta en uso :cry:
-14:54:11 - Martín Valdés de León (@mvaldesdeleon):
-mval.dev in the bag
-14:54:32 - Martín Valdés de León (@mvaldesdeleon):
-gracias por no cagarmelo :smile:
-14:54:57 - Nico (@nicokorn96):
-nicomse.dev
-14:55:01 - Nico (@nicokorn96):
-:raised_hands::skin-tone-2:
-14:55:15 - Hernan Rajchert (@sherman):
-sherman.dev tmb :sunglasses:… pero goddady y la concha que te pario donde estan mis DNS :agite:
-14:55:43 - Nico (@nicokorn96):
-Usa digital océan sino 
-14:55:49 - Hernan Rajchert (@sherman):
-la página web ya te está esperando :kissing: <https://hrajchert.github.io/shermandev/>
-14:56:16 - Hernan Rajchert (@sherman):
-la definición de MVP (?
-14:56:24 - Nico (@nicokorn96):
-<https://www.whatsmydns.net>
-14:56:29 - Nico (@nicokorn96):
-Probaste esra página?
-14:56:53 - Nico (@nicokorn96):
-<@U0DHEL1PC> 
-14:57:02 - Hernan Rajchert (@sherman):
-<https://www.whatsmydns.net/#CNAME/sherman.dev> todas cruces rojas
-14:57:25 - Nico (@nicokorn96):
-Creo  qye el señor godaddy te está garcando
-14:57:34 - Hernan Rajchert (@sherman):
-probe una que me dijo que esta registrada bajo goddady, asique…
-14:57:48 - Santiago Ruffino (@santi_0898):
-Go Daddy tarda bastante en hacer la parte de los DNS
-14:57:52 - Hernan Rajchert (@sherman):
-se toman su tiempo… 48hs, tranqui
-15:12:05 - Julian (@jantonielli01):
-Now domains esta piola 
-15:12:12 - Julian (@jantonielli01):
-Aunque es caro
-15:12:27 - Julian (@jantonielli01):
-Pero así es zeit :evil: 
-15:37:05 - Gonza Gluzman (@gonza):
-Algunx desarrolla en windows? Tengo una amiga con una compu con Windows y quiere arrancar a desarrollar. Quería saber si usan algo para usar git desde consola (dentro de lo posible usar los comandos de linux e idealmente desde la consola del VSCode).
-15:37:22 - Jorge Cano (@jorgeucano):
-la consola del git
-15:37:44 - Gonza Gluzman (@gonza):
-Oka, sería una aparte, no?
-15:37:48 - Gonza Gluzman (@gonza):
-Cómo se instala?
-15:37:52 - Jorge Cano (@jorgeucano):
-cuando instalas git
-15:37:55 - Jorge Cano (@jorgeucano):
-se te instala una terminal
-15:37:59 - Gonza Gluzman (@gonza):
-Joya
-15:38:10 - Jorge Cano (@jorgeucano):
-<https://gitforwindows.org/>
-15:38:13 - Gonza Gluzman (@gonza):
-No se puede embeber en el VSCode, no?
-15:38:22 - Jorge Cano (@jorgeucano):
-ni idea, igual te hablo de hace años xD
-15:38:26 - Gonza Gluzman (@gonza):
-ajajajja
-15:38:31 - Jorge Cano (@jorgeucano):
-creo que ahora windows ya viene con terminal que soporta comando linux
-15:38:31 - Gonza Gluzman (@gonza):
-Con Windows 98
-15:38:48 - Gabriel Dominguez (@gabidominguez):
-Cmder creo que sirve para comandos de Linux también
-15:39:04 - Gonzalo González Mora (@gonzalogm):
-<https://www.cygwin.com/>
-15:39:26 - Juan Scolari (@juanscolari):
-powershell soporta los comandos de linux
-15:39:31 - Jorge Cano (@jorgeucano):
-ahi esta
-15:39:36 - Jorge Cano (@jorgeucano):
-que use powershell directo
-15:39:47 - Juan Scolari (@juanscolari):
-capaz hay alguno mas moderno, pero conozco ese nomas :stuck_out_tongue:
-15:41:20 - Jorge Cano (@jorgeucano):
-<https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/>
-15:44:24 - Santiago Ruffino (@santi_0898):
-Esta el Powershell. Y depende de la version de Win 10, podes activar una consola como en Linux, pero no es lo mismo
-15:44:45 - Santiago Ruffino (@santi_0898):
-Igual, ponele. Si va a usar VSCode, ya trae extensiones que trabajan con Git
-15:47:25 - Gonza Gluzman (@gonza):
-Oka, oka, voy a investigar un poco más
-15:47:26 - Gonza Gluzman (@gonza):
-Jajajaj
-15:51:14 - Micael Robles (@micaelrobles):
-donde compraron los dominios .dev?
-15:51:28 - Martín Valdés de León (@mvaldesdeleon):
-yo en godaddy (i know)
-15:51:40 - Micael Robles (@micaelrobles):
-conoces una mejor opcion?
-15:53:05 - Julio (@julito):
-namecheap los está vendiendo también
-15:53:15 - Nico (@nicokorn96):
-yo en namecheap
-15:53:37 - Jorge Cano (@jorgeucano):
-namecheap compre porque acepta paypal y funcionaba
-15:53:41 - Jorge Cano (@jorgeucano):
-google domains estaba matado
-15:53:49 - Nico (@nicokorn96):
-todavia no me acrtualizo los dns igual :disappointed:
-15:54:10 - Juan Scolari (@juanscolari):
-estan colapsados seguro
-15:54:15 - Juan Scolari (@juanscolari):
-dale un dia jaj
-15:54:35 - Jorge Cano (@jorgeucano):
-mañana estan gratis me idijieron xD
-15:54:35 - isna (@isna):
-use google domains y todavía figura como pendiente
-15:54:38 - Jorge Cano (@jorgeucano):
-va uno me twitteo eso
-15:54:48 - Julian (@jantonielli01):
-La clásica 
-15:54:51 - Jorge Cano (@jorgeucano):
-<https://twitter.com/beor22/status/1101162955511607297>
-15:54:57 - Julian (@jantonielli01):
-Mañana están gratis y te roban el dominio 
-15:55:39 - Sergio Daniel Xalambrí (@sergiodxa):
-cuando estén gratis se agotan todos
-15:55:43 - Sergio Daniel Xalambrí (@sergiodxa):
-igual que con los .<http://com.ar|com.ar>
-15:56:01 - Sergio Daniel Xalambrí (@sergiodxa):
-compras todos los .dev posibles y los ponés a revender, no los renovas si no los vendes
-15:56:07 - Sergio Daniel Xalambrí (@sergiodxa):
-algo de plata sacas
-15:56:29 - Gonza Gluzman (@gonza):
-No tenés que pagar por adelantado la renovación?
-15:56:29 - Jorge Cano (@jorgeucano):
-hero.dev esta reservado :open_mouth:
-15:56:35 - Jorge Cano (@jorgeucano):
-my.dev tambien (?)
-15:56:43 - Sergio Daniel Xalambrí (@sergiodxa):
-myhero.dev?
-15:56:45 - Santiago Ruffino (@santi_0898):
-Yo no tengo ganas de pagar $532 por un dominio que no voy a usar. Jajaja
-15:57:07 - Jorge Cano (@jorgeucano):
-youaremy.dev
-15:57:09 - Juan Scolari (@juanscolari):
-uno que me gustaba era thegood.dev
-15:57:19 - Jorge Cano (@jorgeucano):
-ved.dev?
-15:57:26 - Juan Scolari (@juanscolari):
-devdev.dev
-15:57:37 - Jorge Cano (@jorgeucano):
-fullstack.dev
-15:57:38 - Jorge Cano (@jorgeucano):
-?
-15:57:39 - Santiago Ruffino (@santi_0898):
-helloworld.dev esta ocupado
-15:57:44 - Sergio Daniel Xalambrí (@sergiodxa):
-theevil.dev está disponible
-15:57:53 - Mateo Silguero (@mfsilguero):
-rockstar.dev
-15:57:55 - Juan Scolari (@juanscolari):
-hay gente que compra por comprar (creo que somos la mayoria)
-15:57:57 - Julian (@jantonielli01):
-Están disponibles algunos de lenguajes 
-15:57:59 - Sergio Daniel Xalambrí (@sergiodxa):
-ninja.dev
-15:57:59 - Gonza Gluzman (@gonza):
-ninja.dev
-15:58:03 - Gonza Gluzman (@gonza):
-Jajajaja
-15:58:03 - Julian (@jantonielli01):
-Tipo clojure.dev
-15:58:08 - Gonza Gluzman (@gonza):
-webmaster.dev
-15:58:11 - Julian (@jantonielli01):
-Pero están &gt; 800$ 
-15:58:11 - Sergio Daniel Xalambrí (@sergiodxa):
-haskell.dev?
-15:58:16 - Julian (@jantonielli01):
-Nope, ese no 
-15:58:18 - Santiago Ruffino (@santi_0898):
-`thebest.dev` esta a $35.339,99
-15:58:20 - Santiago Ruffino (@santi_0898):
-ARS
-15:58:25 - Juan Scolari (@juanscolari):
-ya compraron baires.dev
-15:58:28 - Julian (@jantonielli01):
-Vi idris.dev por 11000 usd 
-15:58:33 - Julian (@jantonielli01):
-No se si se habrá vendido ya 
-15:58:47 - Jorge Cano (@jorgeucano):
-freelance.dev tambien esta tomado
-15:59:21 - Jorge Cano (@jorgeucano):
-`heyimam.dev` esta pero no queda copado
-15:59:37 - Gonzalo González Mora (@gonzalogm):
-`theworst.dev`
-15:59:39 - Jorge Cano (@jorgeucano):
-soy.dev esta 98 dolares XD
-15:59:43 - Gonza Gluzman (@gonza):
-`eloper.dev`
-15:59:52 - Jorge Cano (@jorgeucano):
-el.dev esta 720 dolares
-15:59:55 - Sergio Daniel Xalambrí (@sergiodxa):
-game.dev?
-15:59:57 - Jorge Cano (@jorgeucano):
-linda forma de no trabajar hoy
-16:00:15 - Jorge Cano (@jorgeucano):
-que hiciste hoy… estuve mirando dominios .dev
-16:00:18 - Gonzalo González Mora (@gonzalogm):
-`yo.dev`
-16:00:25 - Santiago Ruffino (@santi_0898):
-Si compras `stack.dev`, podes hacer subdominios que sean "full.stack.dev"
-16:00:37 - Gonzalo González Mora (@gonzalogm):
-empty.stack.dev
-16:00:49 - Luis Alvarez (@luistensai):
-:developers:
-16:00:58 - Jorge Cano (@jorgeucano):
-not.dev esta xD
-16:01:09 - Luis Alvarez (@luistensai):
-/gif developers developers developers
-16:01:09 - Gonzalo González Mora (@gonzalogm):
-360, pagaraprata
-16:01:50 - Santiago Ruffino (@santi_0898):
-Mientras el codigo compila...
-16:02:13 - Juan Scolari (@juanscolari):
-pero a cuanto? xD
-16:02:25 - Rodrigo Ali (@rodrigojali):
-720 lechugas
-16:02:27 - Jorge Cano (@jorgeucano):
-el problema son la lista de tareas que tengo pendiente
-16:02:34 - Juan Scolari (@juanscolari):
-es como no estar jaj
-16:03:03 - Juan Scolari (@juanscolari):
-theonly.dev este esta barato
+09:23:02 - Martin Carrera (@mcarrera):
+las Erasmo (<https://www.erasmo.com.ar/>) se recomendaron bastante por aca
+09:43:16 - Martín Aimar (@maimar):
+Algo de discusión por acá <https://news.ycombinator.com/item?id=13444320>
+13:04:05 - Micael Robles (@micaelrobles):
+Tienen idea del rango de precios de erasmo?
+15:48:49 - Julio (@julito):
+Creo que hace poco alguien había preguntado por una y estaba algo de 40k
+15:49:33 - Julio (@julito):
+¿Tienen alguna recomendación de curso de desarrollo web para principiantes? Puede ser en inglés, idealmente gratis, definitivamente no presencial en Capital
+15:49:52 - Julio (@julito):
+Conozco muchos de nombre pero no tengo demasiadas referencias
+15:49:58 - Pato (@pato):
+mmm yo siepre recomiendo la de free code camp
+15:50:10 - Pato (@pato):
+<https://www.freecodecamp.org/>
+15:59:38 - gillchristian (@gillchristian):
+Alguno tiene Mac con touchbar y usa vim?
+16:00:13 - Julio (@julito):
+Tengo la Mac, pero vim lo uso para los mensajes de commit nomás :stuck_out_tongue:
+16:01:48 - Jorge Cano (@jorgeucano):
+uso vim super de vez en cuando
+16:01:52 - Jorge Cano (@jorgeucano):
+cual es tu problema XD ?
+16:01:59 - Jorge Cano (@jorgeucano):
+necestas los f(ponga su numero aqui) ?
+16:04:04 - Luis Alvarez (@luistensai):
+:trollface:
+16:05:22 - gillchristian (@gillchristian):
+Escuché que vim se lleva mal con el touchbar
+16:05:25 - Jorge Cano (@jorgeucano):
+el esc no es un problema … los f(1…12) si
+16:05:36 - gillchristian (@gillchristian):
+Pero por ahí es mentira
+16:05:38 - Jorge Cano (@jorgeucano):
+tampoco es problema, en realidad apretas fn y listo
+16:05:45 - Jorge Cano (@jorgeucano):
+yo la verdad que no soy un advance user de vim
+16:05:54 - gillchristian (@gillchristian):
+Ok
+16:05:57 - Jorge Cano (@jorgeucano):
+pero me funciona perfecto y mucha gente que conozco desarrolla ahi con mac with touckbar
+16:06:02 - gillchristian (@gillchristian):
+Bueno saber jaja
+16:06:13 - Jorge Cano (@jorgeucano):
+uno hasta escribio un libro de VIM XD
+16:09:42 - gillchristian (@gillchristian):
+Pffff jaja
+19:45:07 - Jose alejandro Zapata (@alejandrozapata73):
+te dejo link de uno que empezamos este lunes... arranca desde cero con javascript <http://foxit.com.ar/curso-introductorio-javascript/>
+19:46:04 - Jose alejandro Zapata (@alejandrozapata73):
+Les dejo curso para los que recien empiezan... arrancan el lunes es virtual: <http://foxit.com.ar/curso-introductorio-javascript/>
+19:49:44 - Juan Scolari (@juanscolari):
+que precio tiene?
+20:09:59 - Brian Hume (@brianh20):
+```El único requerimiento para realizar este curso es contar con manejo básico de PC y sistema operativo Windows o Linux````
